@@ -6,11 +6,10 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange.svg)
 ![DeepFace](https://img.shields.io/badge/DeepFace-0.0.79+-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
-![GitHub Stars](https://img.shields.io/github/stars/username/emotion-detection-agent?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/username/emotion-detection-agent?style=social)
+
 
 ---
 
@@ -251,11 +250,6 @@ See [docs/architecture.md](docs/architecture.md) for detailed system architectur
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Future Enhancements
 
