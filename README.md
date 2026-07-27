@@ -220,6 +220,13 @@ Fear<img width="959" height="561" alt="Screenshot 2026-07-27 213203" src="https:
 
 
  Disgust<img width="892" height="489" alt="image" src="https://github.com/user-attachments/assets/1b022b5a-67c7-4e8a-aa36-78572d4ebb27" />
+
+
+
+
+
+ <img width="860" height="455" alt="image" src="https://github.com/user-attachments/assets/04f90fbd-e6f2-4715-adbe-1267ec8e386b" />
+
  
 
 | No Face Detected |
