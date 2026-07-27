@@ -186,36 +186,36 @@ Continue until camera closed
 
 | Application Home | Happy Detection |
 |----------------|-----------------|
-| ![Home](screenshots/application_home.png) | ![Happy](screenshots/happy_detection.png) |
+| ![Home](<img width="957" height="560" alt="Screenshot 2026-07-27 212301" src="https://github.com/user-attachments/assets/706fc72e-b01e-489a-a248-54d5ae1843c2" />
+) | ![Happy](<img width="956" height="563" alt="Screenshot 2026-07-27 212726" src="https://github.com/user-attachments/assets/08f9fac1-8771-42e9-81fa-740c460516a7" />
+) |
 
 | Sad Detection | Angry Detection |
 |---------------|-----------------|
-| ![Sad](screenshots/sad_detection.png) | ![Angry](screenshots/angry_detection.png) |
+| ![Sad](<img width="960" height="560" alt="Screenshot 2026-07-27 213344" src="https://github.com/user-attachments/assets/f3b6d9e5-d38f-45e8-8808-d3c04b693737" />
+) | ![Angry](<img width="956" height="562" alt="Screenshot 2026-07-27 212851" src="https://github.com/user-attachments/assets/38c6fdd2-85b6-42c2-b1c9-2239c4be493d" />
+) |
 
 | Neutral Detection | Surprise Detection |
 |-------------------|-------------------|
-| ![Neutral](screenshots/neutral_detection.png) | ![Surprise](screenshots/surprise_detection.png) |
+| ![Neutral](<img width="956" height="562" alt="image" src="https://github.com/user-attachments/assets/bf77ea53-ed2f-4acd-a138-95dd90027394" />
+) | ![Surprise](<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/8f9fb62f-bbe0-40b5-aae0-f59da357c423" />
+) |
 
 | Fear Detection | Disgust Detection |
 |----------------|-------------------|
-| ![Fear](screenshots/fear_detection.png) | ![Disgust](screenshots/disgust_detection.png) |
+| ![Fear](<img width="959" height="561" alt="Screenshot 2026-07-27 213203" src="https://github.com/user-attachments/assets/b1958e3f-f529-4c90-9c61-be009a64f61f" />
+) | ![Disgust](<img width="892" height="489" alt="image" src="https://github.com/user-attachments/assets/1b022b5a-67c7-4e8a-aa36-78572d4ebb27" />
+) |
 
 | No Face Detected |
 |------------------|
-| ![No Face](screenshots/no_face_detected.png) |
+| ![No Face](<img width="962" height="561" alt="image" src="https://github.com/user-attachments/assets/aa80ffa4-3562-470a-83dc-6541e9ebd6e6" />
+) |
 
-> Screenshot placeholders — replace with actual captures after running the application.
 
----
-
-## Demo Video
-
-Watch a demonstration of the Real-Time Emotion Detection Agent:
-
-🔗 [YouTube Demo Video (Placeholder)](https://www.youtube.com/watch?v=PLACEHOLDER)
 
 ---
-
 ## Architecture
 
 See [docs/architecture.md](docs/architecture.md) for detailed system architecture, data flow, and workflow diagrams.
@@ -268,3 +268,9 @@ See [docs/architecture.md](docs/architecture.md) for detailed system architectur
 - Model Selection
 - GPU Acceleration
 - Emotion Analytics
+-------------------
+👨‍💻 Author
+-------------------
+Dheeraj Kanna
+-------------------
+GITHUB - https://github.com/Dheeraj-kanna
