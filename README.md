@@ -186,9 +186,9 @@ Continue until camera closed
 
 | Application Home | Happy Detection |
 |----------------|-----------------|
-| ![Home](<img width="957" height="560" alt="Screenshot 2026-07-27 212301" src="https://github.com/user-attachments/assets/706fc72e-b01e-489a-a248-54d5ae1843c2" />
-) | ![Happy](<img width="956" height="563" alt="Screenshot 2026-07-27 212726" src="https://github.com/user-attachments/assets/08f9fac1-8771-42e9-81fa-740c460516a7" />
-) |
+| Home<img width="957" height="560" alt="Screenshot 2026-07-27 212301" src="https://github.com/user-attachments/assets/706fc72e-b01e-489a-a248-54d5ae1843c2" />
+ | Happy<img width="956" height="563" alt="Screenshot 2026-07-27 212726" src="https://github.com/user-attachments/assets/08f9fac1-8771-42e9-81fa-740c460516a7" />
+ |
 
 | Sad Detection | Angry Detection |
 |---------------|-----------------|
