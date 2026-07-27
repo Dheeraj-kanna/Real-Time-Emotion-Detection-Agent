@@ -1,0 +1,3 @@
+# Logs directory
+
+Application logs are written to application.log by default.

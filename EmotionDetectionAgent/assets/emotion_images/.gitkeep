@@ -1,0 +1,8 @@
+# Emotion Images
+
+Place custom emotion images in this folder.
+
+Supported naming: happy.*, sad.*, angry.*, fear.*, surprise.*, neutral.*, disgust.*
+Supported formats: .png, .jpg, .jpeg
+
+Run `python scripts/generate_placeholder_images.py` to create test placeholders.

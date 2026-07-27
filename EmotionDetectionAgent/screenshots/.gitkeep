@@ -1,0 +1,13 @@
+# Screenshots directory
+
+Place application screenshots here:
+
+- application_home.png
+- happy_detection.png
+- sad_detection.png
+- angry_detection.png
+- neutral_detection.png
+- surprise_detection.png
+- fear_detection.png
+- disgust_detection.png
+- no_face_detected.png
